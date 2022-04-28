@@ -13,14 +13,26 @@ Try to do things right. Create commits as if you are working for an actual compa
 [optional footer(s)]
 ```
 
-## Types
-1. Fix
-2. Feat
-3. Build:
-4. Chore:
-5. CI:
-6. Docs:
-7. Style:
-8. Refactor:
-9. Perf:
-10. Test:
+### Case
+- Write first line in lowercase (?)
+
+### Types
+```md
+1. fix: patches a bug
+2. feat: introduces a new feature
+3. build: 
+4. chore:
+5. ci:
+6. docs:
+7. style:
+8. refactor:
+9. revert:
+10. perf:
+11. test:
+```
+
+### Breaking Changes
+```md
+Commit message with !
+feat!: introduces a new breaking feature
+```

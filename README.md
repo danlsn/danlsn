@@ -10,3 +10,9 @@ ___
 
 [![danlsn's github stats](https://github-readme-stats.vercel.app/api?username=danlsn&show_icons=true)](https://github.com/danlsn/)
 ___
+
+## Profile Page Hits
+
+```
+![Visitor Count](https://profile-counter.glitch.me/danlsn/count.svg))
+```

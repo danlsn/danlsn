@@ -13,6 +13,6 @@ ___
 
 ## Profile Page Hits
 
-```
-![Visitor Count](https://profile-counter.glitch.me/danlsn/count.svg))
-```
+
+![Visitor Count](https://profile-counter.glitch.me/danlsn/count.svg)
+

@@ -15,5 +15,5 @@ ___
 
 ## Most Recent Stars
 
-[![Last Stars Display](https://badges.pufler.dev/last-stars/danlsn?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
+[![Last Stars Display](https://badges.pufler.dev/last-stars/danlsn?count=6&padding=20&perRow=3)](https://badges.pufler.dev)
 

@@ -5,8 +5,16 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-I’m a Melbourne-based photographer turned programmer, and hobbyist data analyst. I’m looking to start the next stage of my career and life as a developer.
-If you’d like to learn more about who I am please stick around!
+I’m a Melbourne-based dedicated non-specialist, passionate Python developer, and working 9-5 as a Senior Data Engineer (Consultant). I am obsessed
+with learning new skills and pushing myself to the edge of what I am capable of.
+
+Currently working with:
+- WhereScape RED
+- Oracle Databases
+- dbt (Data Build Tool)
+- Snowflake
+- Python
+- SQL
 
 ___
 
